@@ -15,7 +15,6 @@ void main() async {
     const ProviderScope(child: MyApp()),
   );
 }
-//hello world
 
 class MyApp extends ConsumerStatefulWidget {
   const MyApp({super.key});
